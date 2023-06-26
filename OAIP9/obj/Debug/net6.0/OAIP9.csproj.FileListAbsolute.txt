@@ -1,0 +1,15 @@
+C:\Users\user\RiderProjects\OAIP9\OAIP9\bin\Debug\net6.0\OAIP9.exe
+C:\Users\user\RiderProjects\OAIP9\OAIP9\bin\Debug\net6.0\OAIP9.deps.json
+C:\Users\user\RiderProjects\OAIP9\OAIP9\bin\Debug\net6.0\OAIP9.runtimeconfig.json
+C:\Users\user\RiderProjects\OAIP9\OAIP9\bin\Debug\net6.0\OAIP9.dll
+C:\Users\user\RiderProjects\OAIP9\OAIP9\bin\Debug\net6.0\OAIP9.pdb
+C:\Users\user\RiderProjects\OAIP9\OAIP9\obj\Debug\net6.0\OAIP9.csproj.AssemblyReference.cache
+C:\Users\user\RiderProjects\OAIP9\OAIP9\obj\Debug\net6.0\OAIP9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\RiderProjects\OAIP9\OAIP9\obj\Debug\net6.0\OAIP9.AssemblyInfoInputs.cache
+C:\Users\user\RiderProjects\OAIP9\OAIP9\obj\Debug\net6.0\OAIP9.AssemblyInfo.cs
+C:\Users\user\RiderProjects\OAIP9\OAIP9\obj\Debug\net6.0\OAIP9.csproj.CoreCompileInputs.cache
+C:\Users\user\RiderProjects\OAIP9\OAIP9\obj\Debug\net6.0\OAIP9.dll
+C:\Users\user\RiderProjects\OAIP9\OAIP9\obj\Debug\net6.0\refint\OAIP9.dll
+C:\Users\user\RiderProjects\OAIP9\OAIP9\obj\Debug\net6.0\OAIP9.pdb
+C:\Users\user\RiderProjects\OAIP9\OAIP9\obj\Debug\net6.0\OAIP9.genruntimeconfig.cache
+C:\Users\user\RiderProjects\OAIP9\OAIP9\obj\Debug\net6.0\ref\OAIP9.dll
